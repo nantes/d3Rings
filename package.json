@@ -1,0 +1,27 @@
+{
+  "name": "d3exercise",
+  "version": "1.0.0",
+  "description": "d3 exercise",
+  "main": "",
+  "keywords": [],
+  "scripts": {
+    "start": "webpack && http-server ./public",
+    "build": "webpack"
+  },
+  "author": "Ivan Cetta <icetta@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.6.0",
+    "@babel/core": "^7.6.0",
+    "@babel/node": "^7.6.1",
+    "@babel/preset-env": "^7.6.0",
+    "@babel/register": "^7.6.0",
+    "babel-loader": "^8.0.6",
+    "html-webpack-plugin": "^3.2.0",
+    "http-server": "^0.11.1",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8",
+    "webpack-node-externals": "^1.7.2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+	"title": "Revenue",
+	"items": 
+		[{
+			"name": "tablet",
+			"value": 120000,
+			"color": "lightgreen"
+		}, {
+			"name": "smartphone",
+			"value": 80000,
+			"color": "darkgreen"
+		}]
+}

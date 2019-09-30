@@ -1,0 +1,13 @@
+{
+	"title": "Visits",
+	"items": 
+		[{
+		"name": "tablet",
+		"value": 480000000,
+		"color": "#ffbf00"
+	}, {
+		"name": "smartphone",
+		"value": 120000000,
+		"color": "#db5812"
+	}]
+}
